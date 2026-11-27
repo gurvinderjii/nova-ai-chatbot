@@ -80,3 +80,7 @@ This builds the image, reads your `.env` for config/secrets, and serves the app 
 
 - Conversation history and theme preference are stored only in the browser (`localStorage`) — there is no database.
 - The attach button in the composer is a UI placeholder; clicking it shows a toast rather than doing nothing silently.
+
+## License
+
+[MIT](LICENSE)
